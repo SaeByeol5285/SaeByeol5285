@@ -27,33 +27,44 @@
 ## 🛠 Tech Stack
 
 ```txt
-💻 Frontend  : React, Vue3, JavaScript, HTML, CSS, MUI  
-🛠 Backend    : Node.js, Express, Java(Spring Boot), MySQL, Oracle  
+💻 Frontend  : React, Vue3, JavaScript, HTML, JSP, CSS, MUI  
+🛠 Backend    : Node.js, Express, Java(Spring Boot), Python, MySQL, Oracle  
 🧰 Tools      : Git, GitHub, VSCode, Postman, Figma  
 🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill
 
-📌 Projects
-무복노트
-감성을 기록하는 라이더들의 SNS 플랫폼
 
-React 기반 SPA + Express, MySQL
+## 📌 Projects
 
-이미지 슬라이더 / 경로 기반 지도 / 댓글, 북마크 기능
+### [무복노트](https://github.com/SaeByeol5285/moboknote)
+> 감성을 기록하는 라이더들의 SNS 플랫폼  
+> React 기반 SPA + Express, MySQL
 
-메인 컬러 · 감성 레이아웃 직접 기획 및 UI 구현
+- 감성 테마 UI 설계 및 전체 화면 구성  
+- 이미지 슬라이더, 경로 기반 지도, 댓글/북마크 기능 구현  
+- Recoil + fetch로 전역 상태 및 인증 관리
 
-과실제로
-교통사고 과실 비율 상담 서비스
+---
 
-Vue3 + Spring Boot + Oracle
+### [과실제로](https://github.com/SaeByeol5285/gwasilzero)
+> 교통사고 과실 비율 상담 서비스  
+> Vue3 + Spring Boot + Oracle 기반
 
-게시판, 상담, 변호사 후기 분석, AI 요약 등 기능 다수 구현
+- 상담, 후기, 통합자료실 등 전체 화면 UI 및 기능 구현  
+- 변호사 후기 분석 기능: LangChain + Python + Oracle 연결  
+- 게시판 CRUD + 파일 업로드 + Quill 에디터 적용
 
-통합자료실/마이페이지/메인 슬라이더 등 UI 리드
+---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaeByeol5285&show_icons=true&theme=default"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeByeol5285&layout=compact"/> </p>
-📫 Contact
-Email : saebyeol.dev@gmail.com
+## 📈 GitHub Stats
 
-Blog : https://velog.io/@saebyeol5285
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeByeol5285&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeByeol5285&layout=compact"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- Email : saebyeol.dev@gmail.com  
+- Blog : [https://velog.io/@saebyeol5285](https://velog.io/@saebyeol5285)
