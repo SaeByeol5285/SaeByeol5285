@@ -31,3 +31,29 @@
 🛠 Backend    : Node.js, Express, Java(Spring Boot), MySQL, Oracle  
 🧰 Tools      : Git, GitHub, VSCode, Postman, Figma  
 🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill
+
+📌 Projects
+무복노트
+감성을 기록하는 라이더들의 SNS 플랫폼
+
+React 기반 SPA + Express, MySQL
+
+이미지 슬라이더 / 경로 기반 지도 / 댓글, 북마크 기능
+
+메인 컬러 · 감성 레이아웃 직접 기획 및 UI 구현
+
+과실제로
+교통사고 과실 비율 상담 서비스
+
+Vue3 + Spring Boot + Oracle
+
+게시판, 상담, 변호사 후기 분석, AI 요약 등 기능 다수 구현
+
+통합자료실/마이페이지/메인 슬라이더 등 UI 리드
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SaeByeol5285&show_icons=true&theme=default"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeByeol5285&layout=compact"/> </p>
+📫 Contact
+Email : saebyeol.dev@gmail.com
+
+Blog : https://velog.io/@saebyeol5285
