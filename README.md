@@ -2,7 +2,7 @@
 
 <p align="center">
 기획부터 배포까지, 구조와 사용성을 함께 고민하는 풀스택 개발자입니다.<br>
-감성 기반 SNS부터 법률 상담 플랫폼까지, 두 가지 색의 프로젝트를 구현했습니다.
+감성 SNS부터 법률 상담 플랫폼까지, 두 가지 색의 프로젝트를 구현했습니다.
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 - 🛠 프론트와 백엔드를 모두 아우르는 풀스택 역량
 - 🎨 사용자 중심 UI/UX 구현에 강점
 - 📚 정보처리기사 & SQLD 자격증 준비 중
-- 🧩 기획 → DB 설계 → 구현 → 배포까지 전 과정 경험
 
 ---
 
@@ -30,28 +29,26 @@
 💻 Frontend  : React, Vue3, JavaScript, HTML, JSP, CSS, MUI  
 🛠 Backend    : Node.js, Express, Java(Spring Boot), Python, MySQL, Oracle  
 🧰 Tools      : Git, GitHub, VSCode, Postman, Figma  
-🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill
+🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill, LangChain
 ```
 
 ## 📌 Projects
 
 ### [무복노트](https://github.com/SaeByeol5285/moboknote)
-> 감성을 기록하는 라이더들의 SNS 플랫폼  
-> React 기반 SPA + Express, MySQL
+> 감성을 기록하는 라이더들의 SNS 플랫폼
+> React + Express, MySQL
 
 - 감성 테마 UI 설계 및 전체 화면 구성  
-- 이미지 슬라이더, 경로 기반 지도, 댓글/북마크 기능 구현  
-- Recoil + fetch로 전역 상태 및 인증 관리
+- Kakao Map 경로 작성
 
 ---
 
-### [과실제로](https://github.com/SaeByeol5285/gwasilzero)
+### [과실제로](https://github.com/SaeByeol5285/project-gwasilzero.git)
 > 교통사고 과실 비율 상담 서비스  
-> Vue3 + Spring Boot + Oracle 기반
+> Vue3 + Spring Boot , Oracle
 
-- 상담, 후기, 통합자료실 등 전체 화면 UI 및 기능 구현  
+- 메인 화면 UI 및 통합자료실, 후기 기능
 - 변호사 후기 분석 기능: LangChain + Python + Oracle 연결  
-- 게시판 CRUD + 파일 업로드 + Quill 에디터 적용
 
 ---
 
@@ -66,5 +63,5 @@
 
 ## 📫 Contact
 
-- Email : saebyeol.dev@gmail.com  
+- Email : parksebyul@gmail.com 
 - Blog : [https://velog.io/@saebyeol5285](https://velog.io/@saebyeol5285)
