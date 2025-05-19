@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=풀스택 개발자 박새별입니다.&color=#ffb6c1)
+![header](https://capsule-render.vercel.app/api?type=slice)
+
 <!--
 **SaeByeol5285/SaeByeol5285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
