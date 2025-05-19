@@ -31,7 +31,7 @@
 🛠 Backend    : Node.js, Express, Java(Spring Boot), Python, MySQL, Oracle  
 🧰 Tools      : Git, GitHub, VSCode, Postman, Figma  
 🔐 Etc        : Recoil, JWT, REST API, Swiper, Kakao Maps, Quill
-
+```
 
 ## 📌 Projects
 
