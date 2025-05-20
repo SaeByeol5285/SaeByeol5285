@@ -40,7 +40,7 @@
 
 ---
 
-### [과실제로](https://github.com/SaeByeol5285/project-gwasilzero.git)(팀 프로젝트, 4인)
+### [과실제로](https://github.com/SaeByeol5285/project-gwasilzero.git)(팀 프로젝트, 5인)
 > 교통사고 과실 비율 상담 서비스  
 > Vue3 + Spring Boot , Oracle
 
