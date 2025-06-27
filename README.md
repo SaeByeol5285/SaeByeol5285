@@ -50,7 +50,7 @@
 ## 📌 Projects
 
 ### [과실제로](https://github.com/SaeByeol5285/project-gwasilzero.git)(팀 프로젝트, 5인)
-> 교통사고 과실 비율 상담 서비스 <br>  
+> 교통사고 과실 비율 상담 서비스 <br>
 > Vue3 + Spring Boot , Oracle
 - 메인, 통합자료실, 회사 소개 등 주요 UI 페이지 구현  
 - 공통 게시판 기능(에디터, 첨부파일, 페이징 등) 설계 및 개발  
