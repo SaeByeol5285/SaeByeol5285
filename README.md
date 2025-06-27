@@ -38,13 +38,13 @@
 ## 🛠 Tech Stack
 
 ```txt
-💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart) </br>
-🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authentication, Cloud Firestore, Storage) </br>
-🔄 비동기 통신     : Ajax, fetch, axios <br>
-🗃 Database       : MySQL, Oracle, NoSQL(Firestore) <br>
-☁ Server/Deploy  : Linux, AWS(EC2, RDS, S3) <br>
-🧰 협업/기획 도구  : GitHub, Notion, Google Docs, Figma <br>
-🧠 기타           : JWT, REST API, Recoil, Kakao Maps, LangChain <br>
+💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart)
+🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authn, Firestore, Storage)
+🔄 비동기 통신     : Ajax, fetch, axios
+🗃 Database       : MySQL, Oracle, NoSQL(Firestore)
+☁ Server/Deploy  : Linux, AWS(EC2, RDS, S3)
+🧰 협업/기획 도구  : GitHub, Notion, Google Docs, Figma
+🧠 기타           : JWT, REST API, Recoil, Kakao Maps, LangChain
 ```
 
 ## 📌 Projects
