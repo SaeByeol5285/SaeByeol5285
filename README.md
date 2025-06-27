@@ -38,8 +38,8 @@
 ## 🛠 Tech Stack
 
 ```txt
-💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart) <br>
-🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authentication, Cloud Firestore, Storage) <br>
+💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart) </br>
+🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authentication, Cloud Firestore, Storage) </br>
 🔄 비동기 통신     : Ajax, fetch, axios <br>
 🗃 Database       : MySQL, Oracle, NoSQL(Firestore) <br>
 ☁ Server/Deploy  : Linux, AWS(EC2, RDS, S3) <br>
