@@ -52,7 +52,7 @@
 ### [과실제로](https://github.com/SaeByeol5285/project-gwasilzero.git)(팀 프로젝트, 5인)
 > 교통사고 과실 비율 상담 서비스  
 > Vue3 + Spring Boot , Oracle
-
+> 
 - 메인, 통합자료실, 회사 소개 등 주요 UI 페이지 구현  
 - 공통 게시판 기능(에디터, 첨부파일, 페이징 등) 설계 및 개발  
 - 변호사 후기 분석 기능(LangChain + Python + Oracle) 연동  
@@ -63,7 +63,7 @@
 ### [무복노트](https://github.com/SaeByeol5285/moboknote)(개인 프로젝트)
 > 감성을 기록하는 라이더들의 SNS
 > React + Express, MySQL
-
+> 
 - 감성 테마 UI 기획 및 전체 화면 구성
 - Kakao Map 기반 경로 작성 기능 구현
 - 프론트/백엔드 포함 전체 기능 설계 및 구현
@@ -73,6 +73,7 @@
 ### [랜덤어때](https://github.com/sbsssb/flutterProject.git)(팀 프로젝트, 5인)
 > AI 기반 랜덤 여행 추천 앱
 > Flutter + Firebase(Authentication, Cloud Firestore, Storage)
+> 
 - 위치 기반 스탬프 적립 기능 구현 (Geolocator + 알림/진동)
 - 공유 앨범 기능 구현 (Firebase Storage + 확대보기 Swiper UI)
 - 메인 페이지 UI 
