@@ -38,14 +38,13 @@
 ## 🛠 Tech Stack
 
 ```txt
-💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart)
-🎨 UI Components  : MUI, Swiper, Quill
-🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authentication, Cloud Firestore, Storage)
-🔄 비동기 통신     : Ajax, fetch, axios
-🗃 Database       : MySQL, Oracle, NoSQL(Firestore)
-☁ Server/Deploy  : Linux, AWS(EC2, RDS, S3)
-🧰 협업/기획 도구  : GitHub, Notion, Google Docs, Figma
-🧠 기타           : JWT, REST API, Recoil, Kakao Maps, LangChain
+💻 Frontend       : HTML, CSS, JavaScript, React.js, JSP, Flutter(Dart) <br>
+🛠 Backend        : Java(Spring Boot), Node.js(Express), Firebase(Authentication, Cloud Firestore, Storage) <br>
+🔄 비동기 통신     : Ajax, fetch, axios <br>
+🗃 Database       : MySQL, Oracle, NoSQL(Firestore) <br>
+☁ Server/Deploy  : Linux, AWS(EC2, RDS, S3) <br>
+🧰 협업/기획 도구  : GitHub, Notion, Google Docs, Figma <br>
+🧠 기타           : JWT, REST API, Recoil, Kakao Maps, LangChain <br>
 ```
 
 ## 📌 Projects
@@ -62,7 +61,7 @@
 ---
 
 ### [무복노트](https://github.com/SaeByeol5285/moboknote)(개인 프로젝트)
-> 감성을 기록하는 라이더들의 SNS 플랫폼
+> 감성을 기록하는 라이더들의 SNS
 > React + Express, MySQL
 
 - 감성 테마 UI 기획 및 전체 화면 구성
